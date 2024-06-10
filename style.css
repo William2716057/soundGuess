@@ -46,3 +46,27 @@ body {
     #play-button:hover {
         background-color: #0056b3;
     }
+
+#map-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#map {
+    width: 80%;
+    height: 500px; /* Adjust the height as needed */
+}
+
+#info {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    font-size: 1.2em;
+    padding: 10px;
+}
