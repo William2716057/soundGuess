@@ -32,7 +32,12 @@ body {
     z-index: 1;
 }
 
-#play-button {
+.overlay-hidden {
+    display: none;
+}
+
+#play-button,
+#show-video-button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -43,7 +48,8 @@ body {
     margin-top: 20px;
 }
 
-    #play-button:hover {
+    #play-button:hover,
+    #show-video-button:hover {
         background-color: #0056b3;
     }
 
