@@ -14,7 +14,8 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=H9ynsH3T7vE", //42.50885709483389, 1.529559246029798
     "https://www.youtube.com/watch?v=diNGaDsBt5c", //49.25460725593517, -123.06762140505892
     "https://www.youtube.com/watch?v=-E7QZ0kz7lw", // 37.08631706060224, 25.149536919816473
-    "https://www.youtube.com/watch?v=bNVXk8HfYkE" //48.209404667545336, 16.373273010922173
+    "https://www.youtube.com/watch?v=bNVXk8HfYkE", //48.209404667545336, 16.373273010922173
+    "https://www.youtube.com/watch?v=pJdnvKvxSlM" //1.2584549768334587, 103.82051469555634
 ];
 
 var coordinates = [
@@ -27,10 +28,12 @@ var coordinates = [
     [53.3455043282152, -6.2641804479797685], //Dublin, Ireland (Temple Bar)
     [-37.80997907774387, 144.96279059264438], //Melbourne CBD
     [35.82928196031092, 129.21804083558212], // Sunset in Gyeongju, Korea and Woljeonggyo Bridge
+    [41.72120802992474, 44.798149620165226], //???
     [40.70803296569079, -73.99938685017098], //brooklyn Bridge, Brooklyn
     [46.02065756109587, 7.749054582030605], //Zermatt Switzerland Coordinates incorrect
     [42.50885709483389, 1.529559246029798], //Andorra la vella Coordinates incorrect
     [49.25460725593517, -123.06762140505892], // East Vancouver, December 19, 20:22
     [37.08631706060224, 25.149536919816473], // Parakia, Paros Port Windmill, Thurs, 15/07/2021, 11:16, 27C
-    [48.209404667545336, 16.373273010922173] // Vienna, Saint Stephen's Cathedral
+    [48.209404667545336, 16.373273010922173], // Vienna, Saint Stephen's Cathedral
+    [1.2584549768334587, 103.82051469555634] //S.E.A Aquariam singapore
 ];
