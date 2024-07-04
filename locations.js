@@ -15,7 +15,8 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=diNGaDsBt5c", //49.25460725593517, -123.06762140505892
     "https://www.youtube.com/watch?v=-E7QZ0kz7lw", // 37.08631706060224, 25.149536919816473
     "https://www.youtube.com/watch?v=bNVXk8HfYkE", //48.209404667545336, 16.373273010922173
-    "https://www.youtube.com/watch?v=pJdnvKvxSlM" //1.2584549768334587, 103.82051469555634
+    "https://www.youtube.com/watch?v=pJdnvKvxSlM", //1.2584549768334587, 103.82051469555634
+    "https://www.youtube.com/watch?v=sBqG9gU_4jU" //
 ];
 
 var coordinates = [
@@ -35,5 +36,6 @@ var coordinates = [
     [49.25460725593517, -123.06762140505892], // East Vancouver, December 19, 20:22
     [37.08631706060224, 25.149536919816473], // Parakia, Paros Port Windmill, Thurs, 15/07/2021, 11:16, 27C
     [48.209404667545336, 16.373273010922173], // Vienna, Saint Stephen's Cathedral
-    [1.2584549768334587, 103.82051469555634] //S.E.A Aquariam singapore
+    [1.2584549768334587, 103.82051469555634], //S.E.A Aquariam singapore
+    [55.75538947856099, 37.614664866161306] //Manezhnaya Square, Moscow, Sunday August 28, 2022, 28C
 ];
