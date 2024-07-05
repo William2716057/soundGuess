@@ -41,3 +41,13 @@ cd path/to/file/
 - style.css: The CSS file that styles the game interface.
 - script.js: The JavaScript file that handles game logic and map interaction.
 - locations.js: A JavaScript file containing the list of video links and their corresponding coordinates.
+
+# Adding Videos
+To add more videos to the game, update the locations.js file with new video links and their corresponding coordinates.
+
+# Acknowledgements
+Leaflet for the interactive maps.
+OpenStreetMap for map tiles.
+YouTube for providing the video content.
+Enjoy the game and test your geographical knowledge! If you have any questions or feedback, please open an issue on GitHub.
+
