@@ -19,7 +19,11 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=sBqG9gU_4jU", //55.75538947856099, 37.614664866161306
     "https://www.youtube.com/watch?v=iEXUi-5GlYo", //21.309920429856163, -157.85816653326114
     "https://www.youtube.com/watch?v=nWpm2QLHYD4", //-45.03291657880635, 168.6606584162474
-    "https://www.youtube.com/watch?v=GPzF23reVfA" //14.554770980327948, 121.04630614040403
+    "https://www.youtube.com/watch?v=GPzF23reVfA", //14.554770980327948, 121.04630614040403
+    "https://www.youtube.com/watch?v=HWEzGG6lLc8", //23.139287922820362, -82.3552351095079
+    "https://www.youtube.com/watch?v=hr-pxW5Nsr0", //30.650278536120744, 104.1148735632127
+    "https://www.youtube.com/watch?v=JBiFQcPJZkM", //26.21481453573085, 127.68835519950223
+    "https://www.youtube.com/watch?v=buuUMwMUYys" //41.28132539513771, 48.01190388223462
 ];
 
 var coordinates = [
@@ -43,6 +47,9 @@ var coordinates = [
     [55.75538947856099, 37.614664866161306], //Manezhnaya Square, Moscow, Sunday August 28, 2022, 28C
     [21.309920429856163, -157.85816653326114], //Downtown Honolulu
     [-45.03291657880635, 168.6606584162474], // Queenstown February 2024
-    [14.554770980327948, 121.04630614040403] //Bonifacio Global City, Philippines
-
+    [14.554770980327948, 121.04630614040403], //Bonifacio Global City, Philippines
+    [23.139287922820362, -82.3552351095079], //San Juan de Dios Cuba
+    [30.650278536120744, 104.1148735632127], //Chengdu Mixc Shopping Mall Area, China
+    [26.21481453573085, 127.68835519950223], //Naha okinawa
+    [41.28132539513771, 48.01190388223462] // Azerbaijan Shahdag Mountains
 ];

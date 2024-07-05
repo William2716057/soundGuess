@@ -35,6 +35,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 map.on('click', function (e) {
+
+    document.getElementById('overlay').classList.add('overlay-hidden');
+    document.getElementById('show-video-button').style.display = 'none';
     if (!currentCoordinate) return; // Exit if no target coordinates set
 
     const userLat = e.latlng.lat;
