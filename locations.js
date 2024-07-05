@@ -16,7 +16,10 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=-E7QZ0kz7lw", // 37.08631706060224, 25.149536919816473
     "https://www.youtube.com/watch?v=bNVXk8HfYkE", //48.209404667545336, 16.373273010922173
     "https://www.youtube.com/watch?v=pJdnvKvxSlM", //1.2584549768334587, 103.82051469555634
-    "https://www.youtube.com/watch?v=sBqG9gU_4jU" //
+    "https://www.youtube.com/watch?v=sBqG9gU_4jU", //55.75538947856099, 37.614664866161306
+    "https://www.youtube.com/watch?v=iEXUi-5GlYo", //21.309920429856163, -157.85816653326114
+    "https://www.youtube.com/watch?v=nWpm2QLHYD4", //-45.03291657880635, 168.6606584162474
+    "https://www.youtube.com/watch?v=GPzF23reVfA" //14.554770980327948, 121.04630614040403
 ];
 
 var coordinates = [
@@ -37,5 +40,9 @@ var coordinates = [
     [37.08631706060224, 25.149536919816473], // Parakia, Paros Port Windmill, Thurs, 15/07/2021, 11:16, 27C
     [48.209404667545336, 16.373273010922173], // Vienna, Saint Stephen's Cathedral
     [1.2584549768334587, 103.82051469555634], //S.E.A Aquariam singapore
-    [55.75538947856099, 37.614664866161306] //Manezhnaya Square, Moscow, Sunday August 28, 2022, 28C
+    [55.75538947856099, 37.614664866161306], //Manezhnaya Square, Moscow, Sunday August 28, 2022, 28C
+    [21.309920429856163, -157.85816653326114], //Downtown Honolulu
+    [-45.03291657880635, 168.6606584162474], // Queenstown February 2024
+    [14.554770980327948, 121.04630614040403] //Bonifacio Global City, Philippines
+
 ];
