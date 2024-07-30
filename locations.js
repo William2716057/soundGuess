@@ -9,21 +9,23 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=IYQ0i9kYXiM", // -37.80997907774387, 144.96279059264438
     "https://www.youtube.com/watch?v=5gBqG5Jkugw", // 35.82928196031092, 129.21804083558212
     "https://www.youtube.com/watch?v=YW48kYHzg2U", // 41.72120802992474, 44.798149620165226
-    "https://www.youtube.com/watch?v=7dfpryACUV4", //40.70803296569079, -73.99938685017098
-    "https://www.youtube.com/watch?v=LFOx-vmYrts", //46.02065756109587, 7.749054582030605
-    "https://www.youtube.com/watch?v=H9ynsH3T7vE", //42.50885709483389, 1.529559246029798
-    "https://www.youtube.com/watch?v=diNGaDsBt5c", //49.25460725593517, -123.06762140505892
+    "https://www.youtube.com/watch?v=7dfpryACUV4", // 40.70803296569079, -73.99938685017098
+    "https://www.youtube.com/watch?v=LFOx-vmYrts", // 46.02065756109587, 7.749054582030605
+    "https://www.youtube.com/watch?v=H9ynsH3T7vE", // 42.50885709483389, 1.529559246029798
+    "https://www.youtube.com/watch?v=diNGaDsBt5c", // 49.25460725593517, -123.06762140505892
     "https://www.youtube.com/watch?v=-E7QZ0kz7lw", // 37.08631706060224, 25.149536919816473
-    "https://www.youtube.com/watch?v=bNVXk8HfYkE", //48.209404667545336, 16.373273010922173
-    "https://www.youtube.com/watch?v=pJdnvKvxSlM", //1.2584549768334587, 103.82051469555634
-    "https://www.youtube.com/watch?v=sBqG9gU_4jU", //55.75538947856099, 37.614664866161306
-    "https://www.youtube.com/watch?v=iEXUi-5GlYo", //21.309920429856163, -157.85816653326114
-    "https://www.youtube.com/watch?v=nWpm2QLHYD4", //-45.03291657880635, 168.6606584162474
-    "https://www.youtube.com/watch?v=GPzF23reVfA", //14.554770980327948, 121.04630614040403
-    "https://www.youtube.com/watch?v=HWEzGG6lLc8", //23.139287922820362, -82.3552351095079
-    "https://www.youtube.com/watch?v=hr-pxW5Nsr0", //30.650278536120744, 104.1148735632127
-    "https://www.youtube.com/watch?v=JBiFQcPJZkM", //26.21481453573085, 127.68835519950223
-    "https://www.youtube.com/watch?v=buuUMwMUYys" //41.28132539513771, 48.01190388223462
+    "https://www.youtube.com/watch?v=bNVXk8HfYkE", // 48.209404667545336, 16.373273010922173
+    "https://www.youtube.com/watch?v=pJdnvKvxSlM", // 1.2584549768334587, 103.82051469555634
+    "https://www.youtube.com/watch?v=sBqG9gU_4jU", // 55.75538947856099, 37.614664866161306
+    "https://www.youtube.com/watch?v=iEXUi-5GlYo", // 21.309920429856163, -157.85816653326114
+    "https://www.youtube.com/watch?v=nWpm2QLHYD4", // -45.03291657880635, 168.6606584162474
+    "https://www.youtube.com/watch?v=GPzF23reVfA", // 14.554770980327948, 121.04630614040403
+    "https://www.youtube.com/watch?v=HWEzGG6lLc8", // 23.139287922820362, -82.3552351095079
+    "https://www.youtube.com/watch?v=hr-pxW5Nsr0", // 30.650278536120744, 104.1148735632127
+    "https://www.youtube.com/watch?v=JBiFQcPJZkM", // 26.21481453573085, 127.68835519950223
+    "https://www.youtube.com/watch?v=buuUMwMUYys", // 41.28132539513771, 48.01190388223462
+    "https://www.youtube.com/watch?v=cfFNKXwDQys", // 37.59065964504297, 126.95398710301384
+    "https://www.youtube.com/watch?v=90H0tX1-xoA" // 58.970531137043416, 5.727758996995819
 ];
 
 var coordinates = [
@@ -51,5 +53,7 @@ var coordinates = [
     [23.139287922820362, -82.3552351095079], //San Juan de Dios Cuba
     [30.650278536120744, 104.1148735632127], //Chengdu Mixc Shopping Mall Area, China
     [26.21481453573085, 127.68835519950223], //Naha okinawa
-    [41.28132539513771, 48.01190388223462] // Azerbaijan Shahdag Mountains
+    [41.28132539513771, 48.01190388223462], // Azerbaijan Shahdag Mountains
+    [37.59065964504297, 126.95398710301384], // Gaemi Village South Korea
+    [58.970531137043416, 5.727758996995819] // Stavanger Norway
 ];
