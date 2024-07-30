@@ -25,7 +25,8 @@ var videoLinks = [
     "https://www.youtube.com/watch?v=JBiFQcPJZkM", // 26.21481453573085, 127.68835519950223
     "https://www.youtube.com/watch?v=buuUMwMUYys", // 41.28132539513771, 48.01190388223462
     "https://www.youtube.com/watch?v=cfFNKXwDQys", // 37.59065964504297, 126.95398710301384
-    "https://www.youtube.com/watch?v=90H0tX1-xoA" // 58.970531137043416, 5.727758996995819
+    "https://www.youtube.com/watch?v=90H0tX1-xoA", // 58.970531137043416, 5.727758996995819
+    "https://www.youtube.com/watch?v=Nzio5jSusDk" // 42.744811122158296, 143.16151708278588
 ];
 
 var coordinates = [
@@ -55,5 +56,6 @@ var coordinates = [
     [26.21481453573085, 127.68835519950223], //Naha okinawa
     [41.28132539513771, 48.01190388223462], // Azerbaijan Shahdag Mountains
     [37.59065964504297, 126.95398710301384], // Gaemi Village South Korea
-    [58.970531137043416, 5.727758996995819] // Stavanger Norway
+    [58.970531137043416, 5.727758996995819], // Stavanger Norway
+    [42.744811122158296, 143.16151708278588] //Koufuku Eki, Obihoro, Hokkaido, Japan
 ];
