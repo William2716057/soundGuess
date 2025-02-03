@@ -28,7 +28,7 @@ This is a game where the user must determine where a YouTube walkaround tour is 
 
 1. Clone this repository:
 `
-git clone https://github.com/your-username/location-guessing-game.git
+git clone https://github.com/William2716057/soundGuess.git
 `
 2. Navigate to the project directory:
 `
