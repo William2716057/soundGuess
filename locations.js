@@ -1,3 +1,4 @@
+
 var locations = [
     { id: "-Xlzej8RTTU", lat: 28.645166730940492, lng: 77.21402962943293, name: "Delhi, India" },
     { id: "7n2vqKHFO1Y", lat: 64.963051, lng: -19.020835, name: "Iceland" },
@@ -8,10 +9,10 @@ var locations = [
     { id: "2xGOPO65kWk", lat: 53.3455043282152, lng: -6.2641804479797685, name: "Temple Bar, Dublin, Ireland" },
     { id: "IYQ0i9kYXiM", lat: -37.80997907774387, lng: 144.96279059264438, name: "Melbourne CBD, Australia" },
     { id: "5gBqG5Jkugw", lat: 35.82928196031092, lng: 129.21804083558212, name: "Woljeonggyo Bridge, Gyeongju, South Korea" },
-    { id: "YW48kYHzg2U", lat: 41.72120802992474, lng: 44.798149620165226, name: "Tbilisi, Georgia" }, //verify 
+    { id: "YW48kYHzg2U", lat: 41.72120802992474, lng: 44.798149620165226, name: "Tbilisi, Georgia (verify)" },
     { id: "7dfpryACUV4", lat: 40.70803296569079, lng: -73.99938685017098, name: "Brooklyn Bridge, New York, USA" },
-    { id: "LFOx-vmYrts", lat: 46.02065756109587, lng: 7.749054582030605, name: "Zermatt, Switzerland" }, //verify
-    { id: "H9ynsH3T7vE", lat: 42.50885709483389, lng: 1.529559246029798, name: "Andorra la Vella, Andorra" }, //verify
+    { id: "LFOx-vmYrts", lat: 46.02065756109587, lng: 7.749054582030605, name: "Zermatt, Switzerland (verify coordinates)" },
+    { id: "H9ynsH3T7vE", lat: 42.50885709483389, lng: 1.529559246029798, name: "Andorra la Vella, Andorra (verify coordinates)" },
     { id: "diNGaDsBt5c", lat: 49.25460725593517, lng: -123.06762140505892, name: "East Vancouver, Canada" },
     { id: "-E7QZ0kz7lw", lat: 37.08631706060224, lng: 25.149536919816473, name: "Parikia, Paros, Greece" },
     { id: "bNVXk8HfYkE", lat: 48.209404667545336, lng: 16.373273010922173, name: "St. Stephen's Cathedral, Vienna, Austria" },

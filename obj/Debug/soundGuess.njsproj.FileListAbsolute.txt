@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:\Users\Wills\source\repos\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.AssemblyReference.cache
 C:\Users\Wills\source\repos\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.CoreCompileInputs.cache
 C:\Users\Wills\source\repos\soundGuess\soundGuess\bin\Microsoft.NodejsTools.WebRole.dll
+=======
+C:\Users\wills\Desktop\Shortcuts\Files\Github\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\soundGuess\soundGuess\bin\Microsoft.NodejsTools.WebRole.dll
+>>>>>>> f25fff08314e4a26c73ac7775e33c4f6f265372f

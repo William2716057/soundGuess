@@ -1,5 +1,4 @@
 
-
 //definitions
 const TOTAL_ROUNDS = 5;
 const MAX_SCORE = 5000;        // points for a perfect guess
@@ -280,7 +279,6 @@ els.next.addEventListener('click', function () {
     }
 });
 /*
-
 let currentCoordinate = null;
 let line = null;
 
@@ -354,5 +352,6 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
 function deg2rad(deg) {
     return deg * (Math.PI / 180);
 } */
+
 
 // display scores and average distances
