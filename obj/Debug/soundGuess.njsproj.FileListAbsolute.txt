@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\soundGuess\soundGuess\obj\Debug\soundGuess.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\soundGuess\soundGuess\bin\Microsoft.NodejsTools.WebRole.dll

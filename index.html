@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel the World by Sound</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Travel the World by Sound</h1>
+    <p class="tagline">Can you guess where you are?</p>
+
+    <div id="player-container">
+        <div id="youtube-player"></div>
+        <div id="overlay"><span id="overlay-text">Press Start to begin</span></div>
+    </div>
+
+    <div id="status"></div>
+
+    <div id="controls">
+        <button id="start-button" disabled>Loading...</button>
+        <button id="confirm-button" hidden disabled>Confirm Guess</button>
+        <button id="next-button" hidden>Next Round</button>
+    </div>
+
+    <div id="map-container">
+        <div id="map"></div>
+        <div id="info"></div>
+    </div>
+
+    <div id="summary" hidden></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="locations.js"></script>
+    <script src="script.js"></script>
+    <!-- Must come after script.js: it calls window.onYouTubeIframeAPIReady when loaded -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* was center: clipped the top when content was taller than the screen */
+    align-items: center;
+    min-height: 100vh; /* was height: 100vh */
+    margin: 0;
+    padding: 16px;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+.tagline {
+    margin: 4px 0 16px;
+    font-size: 1.2em;
+    color: #444;
+}
+
+#player-container {
+    position: relative;
+    width: min(560px, 100%);
+    aspect-ratio: 16 / 9;
+}
+
+#youtube-player {
+    width: 100%;
+    height: 100%;
+}
+
+#overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3em;
+    z-index: 1;
+}
+
+.overlay-hidden {
+    display: none !important;
+}
+
+#status {
+    margin-top: 12px;
+    min-height: 1.2em;
+    font-weight: bold;
+}
+
+#controls {
+    display: flex;
+    gap: 10px;
+    margin-top: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+    button:hover:not(:disabled) {
+        background-color: #0056b3;
+    }
+
+    button:disabled {
+        background-color: #9bbbe0;
+        cursor: not-allowed;
+    }
+
+    button[hidden] {
+        display: none;
+    }
+
+#map-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16px;
+}
+
+#map {
+    width: 80%;
+    height: 500px;
+}
+
+#info {
+    width: 80%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    font-size: 1.2em;
+    padding: 10px;
+    min-height: 1.5em;
+}
+
+#summary {
+    width: 80%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    padding: 16px 24px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+    #summary[hidden] {
+        display: none;
+    }
+
+    #summary h2 {
+        margin-top: 0;
+    }
+
+@media (max-width: 700px) {
+    #map,
+    #info,
+    #summary {
+        width: 100%;
+    }
+
+    #map {
+        height: 380px;
+    }
+}
