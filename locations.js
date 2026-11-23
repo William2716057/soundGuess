@@ -1,4 +1,5 @@
 
+
 var locations = [
     { id: "-Xlzej8RTTU", lat: 28.645166730940492, lng: 77.21402962943293, name: "Delhi, India" },
     { id: "7n2vqKHFO1Y", lat: 64.963051, lng: -19.020835, name: "Iceland" },

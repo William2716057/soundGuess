@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # soundGuess
 
-
-=======
 # Guess the location by sound
 This is a game where the user must determine where a YouTube walkaround tour is located based only on the sound
 
@@ -56,4 +54,3 @@ OpenStreetMap for map tiles.
 YouTube for providing the video content.
 Enjoy the game and test your geographical knowledge! If you have any questions or feedback, please open an issue on GitHub.
 
->>>>>>> f25fff08314e4a26c73ac7775e33c4f6f265372f

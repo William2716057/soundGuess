@@ -278,6 +278,7 @@ els.next.addEventListener('click', function () {
         nextRound();
     }
 });
+
 /*
 let currentCoordinate = null;
 let line = null;
